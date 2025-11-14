@@ -35,3 +35,7 @@ Notes
 License
 
 This project is provided as-is for learning purposes.
+
+# TS-Pizza-App-Cliche
+
+Building the Pizza Cafe Web with TS
